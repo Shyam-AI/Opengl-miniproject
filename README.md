@@ -19,7 +19,7 @@ OpenGL is an actively developed API. New versions of the OpenGL specifications a
 
 # OpenGL Graphics Architecture
 
-<img src="https://github.com/Shyam-AI/shredder-machine/blob/master/shredder-proj-plan.png" width="800px" height="auto">
+<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/architecture.jpg" width="200px" height="auto">
 
 # About the project
 
@@ -34,10 +34,8 @@ ii)Non-Pre-emptive.
 	In this type of scheduling method, the CPU has been allocated to a specific process. The process that keeps the CPU busy will release the CPU either by switching context or terminating. It is the only method that can be used for various hardware platforms. That's because it doesn't need special hardware (for example, a timer) like preemptive scheduling.
 CPU scheduling criteria : 
 	A CPU scheduling algorithm tries to maximize and minimize the following:
- 
-Figure : 3.1 CPU scheduling criteria
-
-
+	
+ <img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/schedulig%20criteria.jpg" width="200px" height="auto">
 
 
 Types of CPU scheduling Algorithm
@@ -58,4 +56,16 @@ Knowledge of CPU schedulng is very important. Visualising the scheduling of the 
 
 # Project flow 
 The interaction with the windows is initialized using glutInit() OpenGL API.The display mode-double buffer and depth buffer is,various callback functions for draeing and redrawing, for mouse and keyboard interfaces, input and calculate functions for various mathematical calculations, the window position and size are also initialized and create the window to display the output.
+<img src="https://github.com/Shyam-AI/shredder-machine/blob/master/shredder-proj-plan.png" width="800px" height="auto">
+
+# Output screenshots
+
+1) Round Robin
+<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/round%20robin.jpg" width="250px" height="auto">
+
+2) Shortest Job First
+<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/shortest%20job.jpg" width="250px" height="auto">
+
+3) Average waiting and turn around time
+<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/terminal%20image.jpg" width="250px" height="auto">
 
