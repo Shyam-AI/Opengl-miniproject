@@ -56,7 +56,7 @@ Knowledge of CPU schedulng is very important. Visualising the scheduling of the 
 
 # Project flow 
 The interaction with the windows is initialized using glutInit() OpenGL API.The display mode-double buffer and depth buffer is,various callback functions for draeing and redrawing, for mouse and keyboard interfaces, input and calculate functions for various mathematical calculations, the window position and size are also initialized and create the window to display the output.
-<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/project-flow.jpg" width="350px">
+<img src="https://github.com/Shyam-AI/Opengl-miniproject/blob/master/cgl-images/project-flow.jpg" width="800px">
 
 # Output screenshots
 
